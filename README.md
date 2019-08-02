@@ -1,6 +1,6 @@
 # Boilerplate for noodling about
 
-http://andymantell.github.io/challenge-skeleton
+https://andymantell.github.io/noodling-skeleton/
 
 ## Commands
 
